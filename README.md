@@ -23,11 +23,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandu034&show_icons=true&theme=tokyonight" alt="Chandra's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandu034&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -44,7 +39,7 @@
 
 ### 📫 Connect With Me
 
-- [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/chandra-sekhar-pulaparthi-8023661b0/))
+- [LinkedIn](https://linkedin.com/in/yourlinkedin)
 - [Portfolio](https://codespaces-react-beta.vercel.app/)
 - [Email](mailto:cspulap@gmail.com)
 
